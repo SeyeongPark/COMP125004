@@ -1,0 +1,15 @@
+{
+  "name": "Assignment2",
+  "version": "1.0.0",
+  "description": "Assignmen2 for COMP125004",
+  "main": "index.js",
+  "author": "Seyeong Park (301088175)",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
+
